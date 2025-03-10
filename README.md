@@ -28,8 +28,6 @@ A rede configurada conta com:
 - Testes de conectividade confirmando a eficiência da configuração.
 - 
 
----
-
-✉️ #Autores
-[Lucas Sá Rodrigues](https://github.com/seu-usuario)
-[Pietro Gama De Medeiros Silva]()
+## 🤝 Autores
+- **Lucas Sá Rodrigues** - Desenvolvimento da rede  
+- **Pietro Gama De Medeiros Silva** - Análise e documentação do projeto  
